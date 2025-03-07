@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+html {
+  background-color: rgba(117, 113, 113, 0.568);
+  color: white;
+}
+h1 {
+  font-family: sans-serif;
+}
+.stopWatchButton {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+button {
+  width: 110px;
+  height: 30px;
+  background-color: rgb(145, 145, 172);
+  border: 2px rgb(89, 89, 107) solid;
+}
+button:hover {
+  background-color: rgb(113, 113, 133);
+}
+h1 {
+  font-size: 50px;
+}
+.stopWatch {
+  margin-top: 180px;
+}
